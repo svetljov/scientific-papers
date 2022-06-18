@@ -1,8 +1,8 @@
 (* ::Package:: *)
 
-(* ::Input:: *)
-(*p=1;eps0=0.2;error=0.01;equalRabi=True;sym=False;*)
-(*type="BroadBand";*)
+(* ::Input::Initialization:: *)
+p=1;eps0=0.2;error=0.01;equalRabi=True;sym=False;
+type="BroadBand";
 
 
 (* ::Input::Initialization:: *)
